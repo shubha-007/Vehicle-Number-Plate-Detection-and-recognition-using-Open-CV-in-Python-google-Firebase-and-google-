@@ -5,3 +5,12 @@ Use of pycharm is recomended.
 You need to install several things in pycharm which is given in the import. Eg:- imutils, pytesseract, etc.
 Install tesseract from this link:- https://github.com/UB-Mannheim/tesseract/wiki
 You need to see basic setup videos of Firebase and Google Sheets Api.
+
+![image](https://user-images.githubusercontent.com/61743638/122649134-14b31d80-d14a-11eb-80a5-f6cdef7c3521.png)
+
+![image](https://user-images.githubusercontent.com/61743638/122649144-272d5700-d14a-11eb-9f9a-d7a397de7c76.png)
+
+
+![image](https://user-images.githubusercontent.com/61743638/122649156-31e7ec00-d14a-11eb-8fd3-077388f970db.png)
+
+![image](https://user-images.githubusercontent.com/61743638/122649164-390efa00-d14a-11eb-8a82-76f2ff850b1a.png)
