@@ -12,7 +12,7 @@ from firebase_admin import firestore
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
 
-image = cv2.imread('car2.jpg')
+image = cv2.imread('Vehicle-Number-Plate-Detection-and-recognition-using-Open-CV-in-Python-google-Firebase-and-google-/car7.jpg')
 
 image = imutils.resize(image, width=500)
 cv2.imshow("Original Image", image)
@@ -53,6 +53,7 @@ text = text.split('\n')
 text = text[0]
 
 print('Vehicle Number is:', text)
+cv2.waitKey(0)
 
 # Firebase
 cred = credentials.Certificate("serviceAccountKey.json")
